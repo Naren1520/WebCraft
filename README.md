@@ -32,3 +32,11 @@ open index.html
 - https://isdc.sahyadri.edu.in 
 
 
+## Cloning Instructions
+
+- In your local terminal run this command 
+```bash
+git clone https://github.com/Naren1520/WebCraft.git
+cd WebCraft
+code .
+```
